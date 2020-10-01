@@ -1,6 +1,5 @@
 (function () {
     var firebaseConfig = {
-
         apiKey: "AIzaSyAw0ohsJzwqF6Xim1FDJass9SbAzueyolI",
         authDomain: "basic-commenting.firebaseapp.com",
         databaseURL: "https://basic-commenting.firebaseio.com",
